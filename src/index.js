@@ -31,7 +31,7 @@ const PersonList = () => {
       <body>
 
            <ul>
-             <li><a className="active" href="#home">Deep Data Science Ltd.</a></li>
+             <li><a className="active" href="#home">Deep Data Science Team.</a></li>
              <li><a href="#news">News</a></li>
              <li><a href="#contact">Contact</a></li>
              
