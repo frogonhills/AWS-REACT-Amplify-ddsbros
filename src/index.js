@@ -41,8 +41,8 @@ const PersonList = () => {
     <section className="person-list">
       <Person img="shifat" name="Shifat Ahmed" job="React Developer" />
       <Person img="Saddam" name="Saddam Sir" job="Boss" />
-      <Person img="ameer" name="Ameer" job="Data Scientist" />
-      <Person img="navid" name="Shaykh Navid" job="Data Scientist" />
+      <Person img="ameer" name="Ameer" job="Data  Analyst" />
+      <Person img="navid" name="Shaykh Navid" job="Data  Analyst" />
       
     </section>
     </div>
