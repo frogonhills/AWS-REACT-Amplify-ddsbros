@@ -40,7 +40,7 @@ const PersonList = () => {
       </body>
     <section className="person-list">
       <Person img="shifat" name="Shifat Ahmed" job="React Developer" />
-      <Person img="Saddam" name="Saddam Sir" job="Boss" />
+      <Person img="saddam" name="Saddam Sir" job="Boss" />
       <Person img="ameer" name="Ameer" job="Data  Analyst" />
       <Person img="navid" name="Shaykh Navid" job="Data  Analyst" />
       
