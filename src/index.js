@@ -41,8 +41,11 @@ const PersonList = () => {
     <section className="person-list">
       <Person img="shifat" name="Shifat Ahmed" job="React Developer" />
       <Person img="saddam" name="Saddam Sir" job="Boss" />
-      <Person img="ameer" name="Ameer" job="Data  Analyst" />
+      <Person img="ameer" name="Ameer" job="Data  Analyst"> 
+          <p>Marriage material</p>
+      </Person>
       <Person img="navid" name="Shaykh Navid" job="Data  Analyst" />
+      <Person img="tajim" name="Tajim" job="FullStack Developer" />
       
     </section>
     </div>
